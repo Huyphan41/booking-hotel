@@ -1,6 +1,5 @@
 package com.example.demo.usecase;
 
-import com.example.demo.application.dto.ResultDto;
 import com.example.demo.application.ports.input.usecasehandler.CreateHotelBookingUseCaseHandler;
 import com.example.demo.application.ports.output.HotelBookingPort;
 import com.example.demo.command.CreateHotelBookingRequestCommand;
